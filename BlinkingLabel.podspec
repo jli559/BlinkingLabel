@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.
+This CocoaPod provides the ability to use a UILabel that may be started and stopped.
                        DESC
 
   s.homepage         = 'https://github.com/jli559/BlinkingLabel'
